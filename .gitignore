@@ -1,0 +1,20 @@
+.DS_Store
+.build*/
+artifacts/
+ios/Config/Local.xcconfig
+*.xcuserstate
+xcuserdata/
+
+# Local credentials and signing material
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.mobileprovision
+*.provisionprofile
+*.xcarchive/
+*.ipa
+*.log
