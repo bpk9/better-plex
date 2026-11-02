@@ -4,6 +4,14 @@ A small native iPhone/iPad app for browsing your Plex library and manually downl
 
 Connects directly to your **existing Plex Media Server**. There is no companion service, scheduler, subscription watcher, or automatic download rule.
 
+<table>
+  <tr>
+    <td><img src="docs/screenshots/library-c6306c0c.jpg" alt="TV library" width="300"></td>
+    <td><img src="docs/screenshots/season-9a981fdb.jpg" alt="Season episodes and download" width="300"></td>
+    <td><img src="docs/screenshots/downloads-a4df0d0e.jpg" alt="Offline downloads" width="300"></td>
+  </tr>
+</table>
+
 ## Use
 
 1. Open **Account → Sign in with Plex**. Complete Google or Plex sign-in in your default browser, then return to better-plex and select a server. Alternatively enter a server URL and token under **Connect manually**.
